@@ -20,7 +20,6 @@ const section4 = () => {
                     </li>
                 </ul>
             </div>
-
             <div className="bottom-img">
                 <img src="/images/product/bottom-img.png" alt="" />
             </div>
